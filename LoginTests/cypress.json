@@ -1,0 +1,4 @@
+{
+    "baseUrl": "http://newtours.demoaut.com/",
+    "integrationFolder":"cypress/integration/FunctionalTests/"
+}
